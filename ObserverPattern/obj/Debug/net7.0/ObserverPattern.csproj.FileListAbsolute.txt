@@ -1,0 +1,15 @@
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/bin/Debug/net7.0/ObserverPattern
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/bin/Debug/net7.0/ObserverPattern.deps.json
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/bin/Debug/net7.0/ObserverPattern.runtimeconfig.json
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/bin/Debug/net7.0/ObserverPattern.dll
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/bin/Debug/net7.0/ObserverPattern.pdb
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.csproj.AssemblyReference.cache
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.AssemblyInfo.cs
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.dll
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/refint/ObserverPattern.dll
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.pdb
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ObserverPattern.genruntimeconfig.cache
+/Users/pingrui/Projects/repo/HeadFirstDesignPattern/ObserverPattern/obj/Debug/net7.0/ref/ObserverPattern.dll
